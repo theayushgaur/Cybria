@@ -1,6 +1,6 @@
-# chatgpt_app
+# Cybria - An AI Assistant Application.
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
